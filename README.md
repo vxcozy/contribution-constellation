@@ -2,7 +2,7 @@
 
 A 3D visualization of your GitHub contribution graph, rendered as glowing orbs in space using Three.js.
 
-![Screenshot placeholder](docs/screenshot-placeholder.png)
+![screenshot](screenshot.png)
 
 ## Setup
 
